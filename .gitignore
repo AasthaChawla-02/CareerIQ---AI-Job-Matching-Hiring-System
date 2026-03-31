@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+*.db
+resume_text.txt
+jobs.json
+scored_jobs.json
+shortlisted_jobs.json
+generated_applications/
+generated_cover_letters/
+backend/.env
+backend/.venv/
+backend/__pycache__/
+frontend/node_modules/
+frontend/dist/
+frontend/.env

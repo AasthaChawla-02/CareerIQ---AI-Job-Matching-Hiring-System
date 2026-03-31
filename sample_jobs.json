@@ -1,0 +1,12 @@
+[
+  {
+    "company": "DemoTech",
+    "title": "Data Scientist",
+    "description": "We are looking for a Data Scientist with Python, SQL, and ML experience."
+  },
+  {
+    "company": "AnalyticsCorp",
+    "title": "Data Analyst",
+    "description": "Role requires SQL, dashboards, and data analysis skills."
+  }
+]

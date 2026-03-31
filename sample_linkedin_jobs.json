@@ -1,0 +1,20 @@
+[
+  {
+    "company": "DataVista Analytics",
+    "title": "Junior Data Scientist",
+    "location": "Remote",
+    "description": "We are seeking a Junior Data Scientist with experience in Python, SQL, data analysis, and basic machine learning. The candidate should be comfortable working with datasets, building models, and communicating insights to stakeholders."
+  },
+  {
+    "company": "InsightWorks",
+    "title": "Data Analyst",
+    "location": "Bangalore, India",
+    "description": "The Data Analyst will work with SQL databases, create dashboards, and perform exploratory data analysis. Strong skills in Python and data visualization tools are required."
+  },
+  {
+    "company": "CloudNova",
+    "title": "Backend Developer",
+    "location": "Remote",
+    "description": "Looking for a backend developer with Node.js, REST APIs, and cloud infrastructure experience. Python is a plus but not required."
+  }
+]
